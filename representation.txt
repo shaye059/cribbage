@@ -1,0 +1,15 @@
+1101 (King)
+0001 Diamonds
+
+Hand
+0101 1000	1011 0001	1011 0010	1000 1000	0010 0010	0001 0100
+
+Table
+0000 0000	0000 0000	0000 0000	0000 0000	
+0000 0000	0000 0000	0010 0010	0001 0100
+
+Dealer - indicates whether it is the AI's crib
+0
+
+Play - 0 indicates this action is for selecting cards to add to the crib, 1 indicates it's for playing cards from the hand
+0
